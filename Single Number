@@ -11,3 +11,6 @@ class Solution:
             count = nums.count(i)
             if count == 1:
                 return i
+
+
+
